@@ -1,5 +1,5 @@
 # HPPrivBayes
-Codings of HPPrivBayes
+Coding backup of HPPrivBayes
 
 data source: https://archive.ics.uci.edu/dataset/2/adult
 
